@@ -17,6 +17,6 @@ git push
 git status
 ```
 ## Resources
-- [Git Statsu Documentation(https./git-scm.com/docs/git-status)
+- [Git Statsu Documentation](https./git-scm.com/docs/git-status)
 ---
 [Back to home](../README.md)

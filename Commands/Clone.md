@@ -11,7 +11,7 @@ git clone https.//github.com/ElevenfiftyAcademy/TerminalDungeon.git
 
 ## Resources
 
--[Git CLone Documentation}(https://git-scm.com/docs/git-clone)
+-[Git CLone Documentation](https://git-scm.com/docs/git-clone)
 
 ---
 
